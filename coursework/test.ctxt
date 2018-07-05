@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=imageFilePath
+comment1.target=void\ displayRawImage(java.lang.String)
+comment2.params=stringImageData
+comment2.target=int[][][]\ parseImageData(java.lang.String[])
+comment3.params=line
+comment3.target=int[]\ parseStringArray(java.lang.String)
+comment3.text=for\ the\ 512\ pixels\ (1\ pixel\ \=\=\ 1\ byte)\ in\ row,\ return\ split\ line\ into\ 512\ pixels\ stored\ in\ int[]
+numComments=4
